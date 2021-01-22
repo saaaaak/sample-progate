@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'sample-p'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6e34d0cc66ab4c0eb2f741b1f4955eb4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bfaea5fa9a894bccba1292e8750872ef }}
         package: .
